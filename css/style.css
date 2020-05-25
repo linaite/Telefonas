@@ -1,0 +1,381 @@
+header {
+    background-color: #7C71CD;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.main-nav {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.nav-item {
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    color: #999999;
+    margin-bottom: 0;
+}
+
+.nav-link {
+    position: relative;
+    text-align: center;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #fff;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.bg-main {
+    background-image: url("http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/banner-bg.jpg");
+    background-size: cover;
+}
+
+.r-col {
+    padding-top: 140px;
+}
+
+.content-block h1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 60px;
+    line-height: 90px;
+    font-weight: 500;
+    letter-spacing: .06em;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+
+}
+
+.content-block h5 {
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 75px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.app-badge ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.list-inline-item:not(:last-child) {
+    margin-right: 25px;
+}
+
+.bg-2 {
+    background-image: url("http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/elipse-bg.png");
+    background-size: cover;
+}
+
+section {
+    padding: 100px 0;
+}
+
+.about-cols {
+    margin-bottom: 30px;
+}
+
+.r-col2 {
+    padding-top: 120px;
+    margin: auto;
+}
+
+.about-item {
+    background: #fff;
+    display: flex;
+    padding: 30px;
+}
+
+.fa-copy, .fa-compass, .fa-comments, .fa-hourglass-start {
+    font-size: 48px;
+    color: #7d71d3;
+}
+
+.content1 h5 {
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    color: #5e5e5e;
+    line-height: 1;
+}
+
+.content1 p {
+    font-size: 14px;
+    letter-spacing: 0;
+    color: #999999;
+    margin-bottom: 0;
+    line-height: 30px;
+}
+
+.bg-v {
+    background-color: #7D71D3;
+}
+
+.fa-globe {
+    color: white;
+    font-size: 48px;
+}
+
+.content h5 {
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 1;
+
+}
+
+.content p {
+    font-size: 14px;
+    letter-spacing: 0;
+    margin-bottom: 0;
+    line-height: 30px;
+    color: white;
+}
+
+.bg-3 {
+    background-image: url("http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/elipse-bg.png");
+    background-size: cover;
+}
+
+.section-title {
+    margin-bottom: 85px;
+}
+
+.section-title h2 {
+    font-size: 48px;
+    font-family: "Josefin Sans", sans-serif;
+    margin-bottom: 30px;
+    font-weight: 300;
+}
+
+.section-title p {
+    width: 70%;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 30px;
+    color: #999999;
+}
+
+.bg-elipse {
+    background-image: url("http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/elipse-bg-three.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.mb-80 {
+    margin-bottom: 80px;
+}
+
+.content2 h5 {
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    color: #5e5e5e;
+    line-height: 1;
+}
+
+.content2 p {
+    font-size: 14px;
+    letter-spacing: 0;
+    margin-bottom: 0;
+    line-height: 30px;
+    color: #999999;
+}
+
+.feature-item .icon {
+    margin-bottom: 25px;
+}
+
+.app-screen {
+    margin: 40px 0;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.bg-4 {
+    background-image: url("http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/desk-bg.jpg");
+    background-size: cover;
+}
+
+.overlay:before {
+    content: '';
+    background: rgba(125, 113, 211, 0.9);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.video {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.video img {
+    border-radius: 8px;
+    width: 100%;
+}
+
+.inner-video {
+    width: 100%;
+    height: auto;
+    display: none;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+iframe {
+    width: 100%;
+    border-radius: 8px;
+    height: auto;
+}
+
+.p-video {
+    position: relative;
+}
+
+
+.video:hover .inner-video {
+    display: flex;
+}
+
+.video-button {
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.video-box a .icon {
+    height: 130px;
+    width: 130px;
+    position: relative;
+}
+
+.video-box span {
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    color: #999999;
+    margin-bottom: 0;
+}
+ .video-box a .icon i {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    z-index: 500;
+    display: block;
+    height: 70px;
+    width: 70px;
+    font-size: 25px;
+    background: #7d71d3;
+    border-radius: 100%;
+    color: #fff;
+    line-height: 70px;
+    text-align: center;
+}
+.bg-shape {
+    background: url("http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/shape-bg.png") no-repeat;
+    background-position: center;
+}
+.section-title {
+    text-align: center;
+    margin-bottom: 85px;
+}
+.section-title h2 {
+    font-size: 48px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 300;
+    margin-bottom: 30px;
+    color: #5e5e5e;
+}
+.section-title p {
+    width: 70%;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 30px;
+}
+.pricing-table {
+    background: #fff;
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.1);
+    padding: 50px 0;
+    margin-bottom: 80px;
+}
+.pricing-table .title {
+    margin-bottom: 30px;
+}
+.pricing-table .title h5 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: "Open Sans", sans-serif;
+    color: #5e5e5e;
+    margin-bottom: .5rem;
+    line-height: 1;
+}
+.pricing-table .price {
+    margin-bottom: 30px;
+}
+.pricing-table .price p {
+    font-size: 36px;
+    font-weight: bold;
+    color: #7d71d3;
+    line-height: 30px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+ul.feature-list {
+    margin: 0;
+    padding: 0;
+}
+ul.feature-list li {
+    margin: 15px 0;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 22px;
+    color: #999999;
+}
+.pricing-table .action-button {
+    margin-top: 30px;
+}
+.btn-main-rounded {
+    letter-spacing: .075em;
+    background: #7d71d3;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 15px 40px;
+    border-radius: 100px;
+}
+.btn-main-rounded:hover{
+    color: white;
+}
